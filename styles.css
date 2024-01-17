@@ -33,6 +33,11 @@
   background-color: inherit;
   border-radius: 1rem;
 }
+@media (max-width: 768px) {
+  .card-link {
+    display: none;
+  }
+}
 /* ------------------------------------ */
 /* ------------------------------------ */
 /* ------------------------------------ */
